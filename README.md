@@ -28,3 +28,14 @@ Lista de tarefas:
 - [x] Criar a página da loja
 - [x] Finalizar reunião com o cliente
 - [x] receber pagamento
+
+![4749062](https://user-images.githubusercontent.com/94229184/143328144-ba22d074-a518-4bcb-8975-8597e9b71301.png)
+[acesse meu Github](https://github.com/AllJonesFB)
+
+Num | Nome | Nota 
+---|---|---
+1 | Julia | 10
+2 | Allan | 10
+
+Final da tabela
+
