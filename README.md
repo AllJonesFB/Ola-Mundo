@@ -41,3 +41,11 @@ Final da tabela
 
 Não entendo direito para que serve o comando `document.getElementById()` da linguagem JavaScript
 
+Olha meu programa em Python
+```
+num = int(input(`Digite um valor: `)
+if num%2 == 0:
+    print(f´O valor {num} é PAR´)
+else:
+    print(f´O valor {num} é ÍMPAR´)
+```
