@@ -39,3 +39,5 @@ Num | Nome | Nota
 
 Final da tabela
 
+Não entendo direito para que serve o comando `document.getElementById()` da linguagem JavaScript
+
